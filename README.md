@@ -1,7 +1,6 @@
 <h1 align="center">Hi My name is Balázs</h1>
 <h3 align="center">I'm a middle school student studying software development and testing.</h3>
 
-
 - 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **Vue 3**
