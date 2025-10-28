@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **Vue 3**
 
-
 - You can reach me: **tiktokbalazs10@gmail.com** 
 
 <h3 align="left">Languages and Tools:</h3>
