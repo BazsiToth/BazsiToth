@@ -36,9 +36,8 @@ Docker, Kubernetes és automatizált deployment pipeline-ok érdekelnek - mert m
 
 ### 🎯 2025 Céljaim
 
-- ✅ Sikeres érettségi vizsgák
+- ✅ Sikeres szakmai vizsga
 - 🎓 Felvétel informatika szakra
-- 💼 Első szakmai gyakorlat vagy junior pozíció
 - 🌟 Hozzájárulás open-source projektekhez
 
 ### 📊 GitHub Statisztikák
