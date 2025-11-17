@@ -2,19 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Balázs%20Tóth&fontSize=50&fontAlignY=35&desc=Webfejlesztő%20|%20Szoftverfejlesztő%20|%20Tesztelő&descSize=18&descAlignY=55" />
 </div>
 
+###
+
+<h1 align="center">👋 Szia, Balázs vagyok!</h1>
+
+###
+
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="YOUR_YOUTUBE_URL">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="YOUR_TWITTER_URL">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1F7&center=true&vCenter=true&width=435&lines=Kávét+kóddá+alakítok+☕;4+éve+tanulom+a+programozást;Tesztelés+%26+Backend+fejlesztés;Automatizált+tesztek+varázslója)](https://git.io/typing-svg)
+
 </div>
 
-<br/>
+###
   
 ### 💼 Mivel foglalkozom
 
