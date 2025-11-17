@@ -31,7 +31,6 @@ Docker, Kubernetes és automatizált deployment pipeline-ok érdekelnek - mert m
 
 - 📖 **PHP & Laravel** - Modern web alkalmazások fejlesztése
 - 🐳 **Docker & Kubernetes** - Konténerizáció és orkesztráció
-- 🧪 **Test Automation** - Selenium, Cypress és automatizált tesztelési keretrendszerek
 - ☁️ **Cloud Services** - AWS és Firebase deployment
 
 ### 🎯 2025 Céljaim
