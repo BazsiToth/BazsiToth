@@ -15,46 +15,31 @@
 </div>
 
 <br/>
+  
+### 💼 Mivel foglalkozom
 
-## 👋 [translate:Szia!]
+🔍 **Tesztelés & QA**  
+Minőségbiztosítással és automatizált tesztelési folyamatok kidolgozásával foglalkozom. Szeretem megtalálni a bugokat, mielőtt a felhasználók találnának rájuk!
 
-[translate:Balázs vagyok, egy végzős középiskolás, aki a számítástechnika és szoftvertesztelés világában merül el.]
+💻 **Backend Fejlesztés**  
+PHP-val, API-kkal és szerveroldalú logikákkal kísérletezek. A Laravel és modern backend frameworkök izgatnak.
 
-### 🎯 [translate:Mit csinálok?]
+🚀 **DevOps & CI/CD**  
+Docker, Kubernetes és automatizált deployment pipeline-ok érdekelnek - mert mi lenne jobb, mint amikor a kód önmagát telepíti?
 
-- 🧪 **[translate:Tesztelés]**: [translate:Minőségbiztosítással és automatizált teszteléssel foglalkozom]
-- 💻 **[translate:Fejlesztés]**: [translate:Web technológiákkal és backend rendszerekkel kísérletezek]
-- 📚 **[translate:Tanulás]**: [translate:Folyamatosan új technológiákat és best practice-eket sajátítok el]
+### 🌱 Jelenleg tanulom
 
-### 🚀 [translate:Amivel most dolgozom]
+- 📖 **PHP & Laravel** - Modern web alkalmazások fejlesztése
+- 🐳 **Docker & Kubernetes** - Konténerizáció és orkesztráció
+- 🧪 **Test Automation** - Selenium, Cypress és automatizált tesztelési keretrendszerek
+- ☁️ **Cloud Services** - AWS és Firebase deployment
 
-- 🔭 [translate:Érettségire készülök, miközben projektek építésével mélyítem a tudásomat]
-- 🌱 [translate:PHP-t tanulok és modern web development frameworköket fedezek fel]
-- 💡 [translate:CI/CD pipeline-ok és DevOps gyakorlatok megértésén dolgozom]
+### 🎯 2025 Céljaim
 
-### 🛠️ [translate:Technológiák & Eszközök]
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-</div>
-
-<br/>
+- ✅ Sikeres érettségi vizsgák
+- 🎓 Felvétel informatika szakra
+- 💼 Első szakmai gyakorlat vagy junior pozíció
+- 🌟 Hozzájárulás open-source projektekhez
 
 ### 📊 GitHub Statisztikák
 
