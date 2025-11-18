@@ -15,18 +15,6 @@
 </div>
 
 
-- 📖 **PHP & Laravel** - Modern web alkalmazások fejlesztése
-- 🐳 **Docker & Kubernetes** - Konténerizáció és orkesztráció
-- ☁️ **Cloud Services** - AWS és Firebase deployment
-
-### 🎯 2025 Céljaim
-
-- ✅ Sikeres szakmai vizsga
-- 🎓 Felvétel informatika szakra
-- 🌟 Hozzájárulás open-source projektekhez
-
-### 📊 GitHub Statisztikák
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bazsitoth&locale=hu&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
