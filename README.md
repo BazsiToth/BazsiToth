@@ -13,8 +13,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1F7&center=true&vCenter=true&width=435&lines=Vue.js+webalkalmazás+fejlesztő;5+éve+tanulom+a+programozást;Frontend+%26+Backend+Tesztelés;)](https://git.io/typing-svg)
 
 </div>
-
-###
   
 ### 💼 Mivel foglalkozom
 
