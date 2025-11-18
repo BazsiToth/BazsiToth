@@ -13,19 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1F7&center=true&vCenter=true&width=435&lines=Vue.js+webalkalmazás+fejlesztő;5+éves+tapasztalat;Frontend+%26+Backend+Tesztelés;)](https://git.io/typing-svg)
 
 </div>
-  
-### 💼 Mivel foglalkozom
 
-🔍 **Tesztelés & QA**  
-Minőségbiztosítással és automatizált tesztelési folyamatok kidolgozásával foglalkozom. Szeretem megtalálni a bugokat, mielőtt a felhasználók találnának rájuk!
-
-💻 **Backend Fejlesztés**  
-PHP-val, API-kkal és szerveroldalú logikákkal kísérletezek. A Laravel és modern backend frameworkök izgatnak.
-
-🚀 **DevOps & CI/CD**  
-Docker, Kubernetes és automatizált deployment pipeline-ok érdekelnek - mert mi lenne jobb, mint amikor a kód önmagát telepíti?
-
-### 🌱 Jelenleg tanulom
 
 - 📖 **PHP & Laravel** - Modern web alkalmazások fejlesztése
 - 🐳 **Docker & Kubernetes** - Konténerizáció és orkesztráció
