@@ -6,7 +6,6 @@
 
 <h1 align="center">👋 Szia, Balázs vagyok!</h1>
 
-
 ###
 
 <div align="center">
