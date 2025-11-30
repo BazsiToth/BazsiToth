@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Balázs%20Tóth&fontSize=50&fontAlignY=35&desc=Webfejlesztő%20|%20Szoftverfejlesztő%20|%20Tesztelő&descSize=18&descAlignY=55" />
 </div>
 
+
 ###
 
 <h1 align="center">👋 Szia, Balázs vagyok!</h1>
